@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+streamlit
+yfinance
+matplotlib
+scipy
+torch
+datetime
+OpenAi
